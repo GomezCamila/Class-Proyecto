@@ -2,7 +2,7 @@ package tiendapack;
 
 public class Item {
 	  //Variables de mienbros
-		public String nombre;
+		private String nombre;
 		private double precio;
 		
 		//constructor
